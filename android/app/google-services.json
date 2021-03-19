@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096121878493",
+    "project_id": "excell-employee",
+    "storage_bucket": "excell-employee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096121878493:android:b21657127834d362fad834",
+        "android_client_info": {
+          "package_name": "excell.employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096121878493-1iumgdp517g39mns6gm4h49ph3icj7ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6eNZd88qhER94w2U9InP7R6Ji71UGj3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096121878493-1iumgdp517g39mns6gm4h49ph3icj7ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
